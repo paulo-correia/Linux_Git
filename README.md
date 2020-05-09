@@ -4,6 +4,9 @@
 
 Git é um sistema de controle de versões distribuído e um sistema de gestão de código fonte, com ênfase na velocidade. O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos.
 
+## No Docker (Alpine Linux)
+[Docker_Git](https://github.com/paulo-correia/Docker_Git)
+
 ## Instalação
 
 Toda a instalação é feita em **root**
